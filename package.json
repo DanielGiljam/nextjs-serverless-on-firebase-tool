@@ -7,5 +7,22 @@
   "license": "MIT",
   "private": true,
   "author": "Daniel Giljam (https://github.com/DanielGiljam)",
-  "repository": "github:DanielGiljam/nextjs-serverless-on-firebase-tool"
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "bin": {
+    "map-functions-to-rewrites": "bin/map-functions-to-rewrites.js"
+  },
+  "repository": "github:DanielGiljam/nextjs-serverless-on-firebase-tool",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.14.0",
+    "@typescript-eslint/parser": "^2.14.0",
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "prettier": "^1.19.1",
+    "prettier-eslint": "^9.0.1",
+    "typescript": "^3.7.4"
+  }
 }
