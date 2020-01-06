@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-serverless-on-firebase-tool",
+  "version": "0.0.0",
+  "description": "Check out https://github.com/DanielGiljam/mui-react-nextjs-cloud-functions-firebase-template for an implementation",
+  "homepage": "https://github.com/DanielGiljam/nextjs-serverless-on-firebase-tool#readme",
+  "bugs": "https://github.com/DanielGiljam/nextjs-serverless-on-firebase-tool/issues",
+  "license": "MIT",
+  "private": true,
+  "author": "Daniel Giljam (https://github.com/DanielGiljam)",
+  "repository": "github:DanielGiljam/nextjs-serverless-on-firebase-tool"
+}
